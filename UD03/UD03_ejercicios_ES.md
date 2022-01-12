@@ -32,7 +32,7 @@ Seguiremos el siguiente proceso:
 
 ## Creamos una carpeta para alojar el proyecto. 
 
-Por ejemplo podemos hacer (poner vuestro nombre)
+Para crear una carpeta tendremos que poner estos comandos (poner vuestro nombre)
 
 ```sh
 mkdir  pruebas-david

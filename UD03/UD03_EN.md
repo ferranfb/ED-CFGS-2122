@@ -444,7 +444,7 @@ This tool works on Linux, Windows and Mac OS X, It is a command line program. It
 
 # Information sources
 
-- [Wikipedia](https://es.wikipedia.org)
+- [**Wikipedia**](https://es.wikipedia.org)
 - [Code&Coke (Fernando Valdeón)](http://entornos.codeandcoke.com/doku.php?id=start)
 - Apuntes IES El Grao (Mª Isabel Barquilla?)
 - [Apuntes IOC (Marcel García)](https://ioc.xtec.cat/materials/FP/Recursos/fp_dam_m05_/web/fp_dam_m05_htmlindex/index.html)
